@@ -10,6 +10,6 @@ Set of Strategies: {0,1,2}
 Assumptions: All firms are homogeneous and have the same probability of getting eliminated.
 
 
-To see the theoretical outcome of this game for different industry sizes, I wrote a code ("Game_output_functions.R") that estimates the payoffs, best responses and equilibriums of each firm. 
+To see the theoretical outcome of this game for different industry sizes, I wrote a code ("Game_output_functions.R") that estimates the payoffs, best responses and equilibriums of each firm. The results of this code are in the file "Game Outcomes.pdf".
 
 To see the empirical outcome of this game for different industry sizes, my research team and I will do an experiment with 10-15 students at our university. Each of the students will be tasked with the role of a firm in this game, were all of them will be asked to provide their responses simulatenously and without cooperation. 
