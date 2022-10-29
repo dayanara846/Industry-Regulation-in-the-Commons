@@ -1,0 +1,12 @@
+Package: gamepaper
+Title: Game Theory Paper
+Authors@R: 
+    person("Dayanara", "Diaz Vargas", , "diazvargas.d@northeastern.edu", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: For my Micro 7771 course, at Northeastern University, my team and I designed a game that emulates the Tragedy of the Commons, from the firms' point of view. This package estimates the game structure for different industry sizes.
+Version: 0.0.0.9000
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.1
