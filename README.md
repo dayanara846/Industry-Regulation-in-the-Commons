@@ -15,11 +15,6 @@ require(devtools)
 install_github("dayanara846/gamepaper", dependencies = NA)
 ```
 
-If you have not set up a GitHub Personal Access Token, you will likely need to do so to avoid 
-GitHub rate limits, which will manifest as 403 errors when downloading packages via
-`install_github`. Please see the documentation in the `usethis` package or see the 
-instructions [here](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token) and [here](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token).
-
 If you are using Windows, you will need to have a version of Rtools installed that matches your
 version of R in order to build packages from source. Rtools can be downloaded from
 [here](https://cran.r-project.org/bin/windows/Rtools/).
