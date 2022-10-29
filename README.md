@@ -5,7 +5,8 @@ To see the theoretical outcome of this game for different industry sizes, I wrot
 
 To see the empirical outcome of this game for different industry sizes, my research team and I will do an experiment with 10-15 students at our university. Each of the students will be tasked with the role of a firm in this game, were all of them will be asked to provide their responses simulatenously and without cooperation.
 
-To see the original R script (with the functions), R Markdown and LaTeX Appendix (of our paper) derived from this package, please refer to my other repository: "Industry Size Regulation in the Commons".
+To see the original R script (with the functions), R Markdown and LaTeX Appendix (of our paper) derived from this package, please refer to my other repository: [here](https://github.com/dayanara846/Industry-Size-Regulation-in-the-Commons) .
+
 
 ## Installation
 
